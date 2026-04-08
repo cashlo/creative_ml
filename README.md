@@ -207,7 +207,7 @@ We discuss the distinction between supervised and unsupervised learning, through
 This allows to introduce the notion of latent variables and how we can solve for this using Expectation-Maximization (EM).
 We provide the full derivation through Variational inference and discuss the implementation of Gaussian Mixture Models (GMM)
 
-**[GitHub assignment](https://classroom.github.com/a/MpIz_77i)**
+**[GitHub assignment](https://classroom.github.com/a/VCJQvVN7)**
 
 **Deadline : 2026.06.25 @ 14:54 JST**
 
@@ -243,7 +243,7 @@ used in generative contexts.
 [![Colab](https://img.shields.io/badge/Notebook-colab-7DA416.svg?style=flat-square&logo=googlecolab)](https://colab.research.google.com/drive/1jyhNNWhDXidsvnSix4LPlG2VZJnAN0tY?usp=sharing) 
 [![Notebook](https://img.shields.io/badge/Notebook-download-167DA4.svg?style=flat-square&logo=jupyter)](08b_normalizing_flows.ipynb) 
 
-**[GitHub assignment](https://classroom.github.com/a/nmi3dwyk)**
+**[GitHub assignment](https://classroom.github.com/a/3yJIYt4R)**
 
 **Deadline : 2026.07.09 @ 14:54 JST**
 
@@ -260,7 +260,7 @@ We introduce the notion of estimating by comparing and derive the complete adver
 After discussing adversarial attacks, we introduce Generative Adversarial Networks (GANs), which are still competitive generative
 models to this day. We discuss flaws and limitations of GANs and introduce their modern applications.
 
-**[GitHub assignment](https://classroom.github.com/a/4rgEXfMT)**
+**[GitHub assignment](https://classroom.github.com/a/OC8ZxWMi)**
 
 **Deadline : 2026.07.16 @ 14:54 JST**
 
@@ -277,7 +277,7 @@ This course explores the new class of generative models based on diffusion proba
 This class of models is inspired by thermodynamics, but also denoising score matching, Langevin dynamics and autoregressive decoding.
 We will also discuss the more recent development of denoising diffusion implicit models and the wavegrad model, which is based on the same core principles but applies this class of models for audio data.
 
-**[GitHub assignment](https://classroom.github.com/a/MW3EL9gl)**
+**[GitHub assignment](https://classroom.github.com/a/PaC3r1DJ)**
 
 **Deadline : 2026.07.23 @ 14:54 JST**
 
