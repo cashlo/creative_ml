@@ -121,7 +121,7 @@ This course introduces the formal notions required to understand machine learnin
 for regression and classification. We discuss the mathematical derivation for optimization and various problems of overfitting, cross-validation
 and model properties and complexity that are still quintessential in modern machine learning.
 
-**[GitHub assignment](https://classroom.github.com/a/coGIjEKS)**
+**[GitHub assignment](https://classroom.github.com/a/iX06PzDU)**
 
 **Deadline : 2026.05.14 @ 14:54 JST**
 
@@ -138,7 +138,7 @@ This course provides a brief history of the development of neural networks along
 We discuss geometric perspectives on neurons and gradient descent and how these interpretation naturally extend to the case
 of multi-layer perceptrons. Finally, we discuss the complete implementation of backpropagation through micro-grad.
 
-**[GitHub assignment](https://classroom.github.com/a/PMMERovu)**
+**[GitHub assignment](https://classroom.github.com/a/_4GWUT7J)**
 
 **Deadline : 2026.05.21 @ 14:54 JST**
 
@@ -155,7 +155,7 @@ In this course we introduce more advanced types of neural networks such as convo
 with more advanced models (LSTM, GRU) and recent developments such as residual architectures.
 We further discuss issues of regularization and initialization in networks.
 
-**[GitHub assignment](https://classroom.github.com/a/0d0aJ2oA)**
+**[GitHub assignment](https://classroom.github.com/a/9tCj5f5u)**
 
 **Deadline : 2026.05.28 @ 14:54 JST**
 
@@ -173,7 +173,7 @@ and auto-encoders. We discuss how these are now less relevant through novel regu
 We finish this course by discussing the recent attention mechanism and transformer architectures and
 provide a set of modern applications.
 
-**[GitHub assignment](https://classroom.github.com/a/1neEu3ph)**
+**[GitHub assignment](https://classroom.github.com/a/tn1MoZ4R)**
 
 **Deadline : 2026.06.04 @ 14:54 JST**
 
@@ -190,7 +190,7 @@ To operate the shift towards generative models, we introduce here the fundamenta
 We discuss several properties and introduce Bayesian inference by developing the mathematical foundations of 
 Maximum A Posteriori (MAP) and Maximum Likelihood (ML) techniques.
 
-**[GitHub assignment](https://classroom.github.com/a/NU0aGVVh)**
+**[GitHub assignment](https://classroom.github.com/a/LWmRhJ8C)**
 
 **Deadline : 2026.06.18 @ 14:54 JST**
     
