@@ -415,13 +415,13 @@ These administrative details concerns only the current (spring) physical session
 |----------:|:-------------|
 | April 9 | 00 - Introduction |
 | April 16 | 01 - Machine learning |
-| April 23 | 02 - Neural networks |
-| April 30 | 03 - Advanced networks |
+| April 23 | **No course** |
+| April 30 | 02 - Neural networks |
 | May 7 | **No course** |
-| May 14 | 04 - Deep learning |
-| May 21 | 05 - Bayesian inference |
-| May 28 | 06 - Latent models |
-| June 4 | _GX - Guest Lecture_ |
+| May 14 | 03 - Advanced networks |
+| May 21 | 04 - Deep learning |
+| May 28 | 05 - Bayesian inference |
+| June 4 | 06 - Latent models |
 | June 11 | **No course** |
 | June 18 | 07 - Approximate inference |
 | June 25 | 08 - VAEs and flows |
